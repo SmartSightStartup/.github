@@ -23,21 +23,19 @@
 
 ## Achievements
 
-<div align="center">
-  <img src="./assets/team_photo2.jpg" style="border-radius:10px; width:80%;"/>
-</div>
-
 - **MIT Reality Hack 2026 - Grand Prize (Gold Award) Winner**
 - **MIT Reality Hack 2026 - Meta Track Winner**
 - **Scheduled to attend AWE USA 2026** (World's #1 XR + AI Event)
 
+<div align="center">
+  <img src="./assets/team_photo2.jpg" style="border-radius:10px; width:100%;"/>
+</div>
+
 ---
 
 ## Project Overview
-
-- **Project Name:** SmartSight (Luna)
 - **Goal:** To eliminate the hassle of manual study logging and develop an AI coach that automatically analyzes and guides study sessions using the 1st-person perspective (POV) of Meta Ray-Ban glasses.
-- **Core Value:** "Visualizing the learning journey without ever interrupting learning itself."
+- **Core Value:** Visualizing the learning journey without ever interrupting learning itself.
 
 ---
 
@@ -133,10 +131,10 @@
 
 ## 📂 Project Deliverables
 
-- [Presentation Pitch Deck (PDF)](./White%20Blue%20and%20Grey%20Modern%20Startup%20Pitch%20Deck%20Presentation.pdf)
-- [Demo Video Link](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+- [Presentation Pitch Deck (PDF)](./)
+- [Demo Video Link](https://youtu.be/PbS7iEWzLyw?si=vtYj21MkKTWro6t1)
 
 ---
 <div align="center">
-  <p><i>Developed during MIT Reality Hack 2026</i></p>
+  <p><i>see you AWE2026</i></p>
 </div>
