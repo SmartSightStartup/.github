@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <a href="youtube.com/watch?v=PbS7iEWzLyw&embeds_referring_euri=https%3A%2F%2Fdevpost.com%2F&source_ve_path=MjM4NTE">📺 Demo Video (YouTube)</a> 
+  <a href="https://youtu.be/PbS7iEWzLyw?si=vtYj21MkKTWro6t1">📺 Demo Video (YouTube)</a> 
   &nbsp; | &nbsp;
   <a href="#">📱 iOS App Store (Coming Soon)</a>
 </div>
