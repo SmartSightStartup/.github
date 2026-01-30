@@ -82,13 +82,48 @@
 
 ---
 
-## 🧑‍💻 Team Members
+## Team Members
 
-| **Name** | **Role** | 
-|:-----------:|:---------------:|
-| **User Name** | VR Software Engineer / Backend (Node.js) |
-| **Donghun Yoo** | Collaborator |
-| (Other Members) | ... |
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Hyunseok Hwang</b><br/>
+      <a href="https://lh3.googleusercontent.com/a/ACg8ocKUZT29umKoLTApWq4zSiKcL9cZNzXbyl8uG4zWCo2ENor8BCAi=s96-c?height=180&width=180">
+        <img src="./assets/hyunseok.jpg" width="100" style="border-radius:50%"/>
+      </a><br/>
+      Product Engineer
+    </td>
+    <td align="center">
+      <b>Sylvan (Xiaofan) Shen</b><br/>
+      <a href="https://linkedin.com/in/sylvan">
+        <img src="./assets/sylvan.jpg" width="100" style="border-radius:50%"/>
+      </a><br/>
+      Product Manager
+    </td>
+    <td align="center">
+      <b>Vivian Xin Shu</b><br/>
+      <a href="https://linkedin.com/in/vivian">
+        <img src="./assets/vivian.jpg" width="100" style="border-radius:50%"/>
+      </a><br/>
+      Product Manager & Designer
+    </td>
+    <td align="center">
+      <b>Jayden DeCambre</b><br/>
+      <a href="https://linkedin.com/in/jayden">
+        <img src="./assets/jayden.jpg" width="100" style="border-radius:50%"/>
+      </a><br/>
+      iOS Engineer
+    </td>
+    <td align="center">
+      <b>Dongchan Kim</b><br/>
+      <a href="https://linkedin.com/in/dongchan">
+        <img src="./assets/dongchan.jpg" width="100" style="border-radius:50%"/>
+      </a><br/>
+      Backend Engineer
+    </td>
+  </tr>
+</table>
 
 ---
 
