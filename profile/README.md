@@ -2,7 +2,7 @@
   <h1>SmartSight: You Learn. We see. We remember.</h1>
   
   <div align="center">
-    <img src="./assets/team_photo2.jpg" style="border-radius:10px; width:100%;"/>
+    <img src="./assets/team_photo1.jpg" style="border-radius:10px; width:100%;"/>
   </div>
   
   <p> <b>Hands-free AI Study Coaching Service using Meta Ray-Ban Smart Glasses</b> </p>
