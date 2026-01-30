@@ -1,15 +1,15 @@
 <div align="center">
   <h1>SmartSight: You Learn. We see. We remember.</h1>
-  <p>👓 <b>Hands-free AI Study Coaching Service using Meta Ray-Ban Smart Glasses</b> 👓</p>
+  
+  <div align="center">
+    <img src="./assets/team_photo2.jpg" style="border-radius:10px; width:100%;"/>
+  </div>
+  
+  <p> <b>Hands-free AI Study Coaching Service using Meta Ray-Ban Smart Glasses</b> </p>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="./assets/team_photo1.jpg" alt="Team Photo 1" style="border-radius: 10px; width: 30%;"/>
-  <img src="./assets/team_photo2.jpg" alt="Team Photo 2" style="border-radius: 10px; width: 30%;"/>
-  <img src="./assets/team_photo3.jpg" alt="Team Photo 3" style="border-radius: 10px; width: 30%;"/>
-</div>
 
 <br/>
 
@@ -22,6 +22,10 @@
 ---
 
 ## Achievements
+
+<div align="center">
+  <img src="./assets/team_photo2.jpg" style="border-radius:10px; width:80%;"/>
+</div>
 
 - **MIT Reality Hack 2026 - Grand Prize (Gold Award) Winner**
 - **MIT Reality Hack 2026 - Meta Track Winner**
