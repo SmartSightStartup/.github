@@ -34,8 +34,9 @@
 ---
 
 ## Project Overview
-- **Goal:** To eliminate the hassle of manual study logging and develop an AI coach that automatically analyzes and guides study sessions using the 1st-person perspective (POV) of Meta Ray-Ban glasses.
-- **Core Value:** Visualizing the learning journey without ever interrupting learning itself.
+- **Goal:** To eliminate the hassle of manual study logging and develop an AI coach that automatically analyzes and provide personalized guided study coaching using the 1st-person perspective (POV) of Meta Ray-Ban glasses and a companion app.
+- **Core Value:** Visualizing the learning journey without ever interrupting learning itself, transforming fragmented study habits into a unified, actionable "study story" that delivers personalized post-session coaching that tells students not just what they covered, but also what to do next. 
+.
 
 ---
 
@@ -49,7 +50,7 @@
 ### **SmartSight’s Solution**
 * **Hands-free Tracking:** Meta Ray-Ban cameras and microphones quietly observe and automatically log study sessions as they happen.
 * **Contextual Insight:** AI analyzes 1st-person POV images to identify study content, engagement levels, and distractions (like phone usage).
-
+* **Customized AI Pipeline:** Primary data is further processed via our customized AI Pipeline for providing coaching items such as flashcards and quizzes. 
 ---
 
 ## Key Features
@@ -63,9 +64,9 @@
 * **Study Telemetry:** Provides consistent, machine-readable metrics on learning quality using structured JSON data.
 * **Distraction Monitoring:** Detects distractions, such as central phone visibility, within the user's field of view.
 
-### **3. Real-time AI Coach**
-* **Voice Support:** If you're "Stuck? Just ask" — receive instant voice-based guidance without breaking focus.
-* **Coaching Principles:** Specifically designed to avoid giving direct answers, instead asking reflective questions to encourage reasoning.
+### **3. AI Coach**
+* **In-session Voice Support:** If you're "Stuck? Just ask" — receive instant voice-based guidance without breaking focus. Our principle is designed to avoid giving direct answers, instead asking reflective questions to encourage reasoning.
+* **Post-session Flashcards & Quizzes:** Glasses capture and AI backend generate flashcards and quizzes automatically without mannual work for distaction-free study coaching. 
 
 ### **4. Learning Dashboard**
 * Visualizes metrics such as time per topic, active/passive ratios, and help counts via an iOS application.
@@ -101,7 +102,7 @@
       <a href="https://linkedin.com/in/sylvan">
         <img src="./assets/sylvan.jpg" width="100" style="border-radius:50%"/>
       </a><br/>
-      Product Manager
+      Product Manager & Glasses UX Designer
     </td>
     <td align="center">
       <b>Vivian Xin Shu</b><br/>
