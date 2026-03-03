@@ -132,7 +132,7 @@
 
 ## 📂 Project Deliverables
 
-- [Presentation Pitch Deck (PDF)](./)
+- [Presentation Pitch Deck (PDF)](https://www.canva.com/design/DAG_XQDLTDo/Ve8QZl2jKriKnRknXeBuMg/view?utm_content=DAG_XQDLTDo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b6bd5e0de)
 - [Demo Video Link](https://youtu.be/PbS7iEWzLyw?si=vtYj21MkKTWro6t1)
 
 ---
