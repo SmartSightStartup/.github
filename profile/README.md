@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>SmartSight: You Learn. We see. We remember.</h1>
+  <h1>SmartSight: You Learn. We Coach.</h1>
   
   <div align="center">
     <img src="./assets/team_photo1.jpg" style="border-radius:10px; width:100%;"/>
