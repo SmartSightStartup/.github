@@ -92,35 +92,35 @@
   <tr>
     <td align="center">
       <b>Hyunseok Hwang</b><br/>
-      <a href="https://lh3.googleusercontent.com/a/ACg8ocKUZT29umKoLTApWq4zSiKcL9cZNzXbyl8uG4zWCo2ENor8BCAi=s96-c?height=180&width=180">
+      <a href="https://www.linkedin.com/in/hyunseok-hwang/">
         <img src="./assets/hyunseok.jpg" width="100" style="border-radius:50%"/>
       </a><br/>
       Product Engineer
     </td>
     <td align="center">
       <b>Sylvan (Xiaofan) Shen</b><br/>
-      <a href="https://linkedin.com/in/sylvan">
+      <a href="https://www.linkedin.com/in/xiaofan-sylvan-shen/">
         <img src="./assets/sylvan.jpg" width="100" style="border-radius:50%"/>
       </a><br/>
       Product Manager & Glasses UX Designer
     </td>
     <td align="center">
       <b>Vivian Xin Shu</b><br/>
-      <a href="https://linkedin.com/in/vivian">
+      <a href="https://www.linkedin.com/in/vivian-xin-shu/">
         <img src="./assets/vivian.jpg" width="100" style="border-radius:50%"/>
       </a><br/>
       Product Manager & Designer
     </td>
     <td align="center">
       <b>Jayden DeCambre</b><br/>
-      <a href="https://linkedin.com/in/jayden">
+      <a href="https://www.linkedin.com/in/jaydendecambre/">
         <img src="./assets/jayden.jpg" width="100" style="border-radius:50%"/>
       </a><br/>
       iOS Engineer
     </td>
     <td align="center">
       <b>Dongchan Kim</b><br/>
-      <a href="https://linkedin.com/in/dongchan">
+      <a href="https://www.linkedin.com/in/dongckim99/">
         <img src="./assets/dongchan.jpg" width="100" style="border-radius:50%"/>
       </a><br/>
       Backend Engineer
