@@ -1,31 +1,28 @@
 <div align="center">
-  <h1>SmartSight: You Learn. We Coach.</h1>
-  
-  <div align="center">
-    <img src="./assets/team_photo1.jpg" style="border-radius:10px; width:100%;"/>
-  </div>
-  
-  <p> <b>Hands-free AI Study Coaching Service using Meta Ray-Ban Smart Glasses</b> </p>
+  <h1>SmartSight: You Study. We Coach.</h1>
+
+  <img src="./assets/team_photo1.jpg" style="border-radius:10px; width:100%;"/>
+
+  <p><b>An AI study coach for MCAT students. Study with your iPhone camera or Ray-Ban Meta glasses; SmartSight notes what you study and coaches you on what to do next.</b></p>
+
+  <p>
+    <a href="https://getsmartsight.com">🌐 getsmartsight.com</a>
+    &nbsp;|&nbsp;
+    <a href="https://youtu.be/PbS7iEWzLyw?si=vtYj21MkKTWro6t1">📺 Demo video</a>
+    &nbsp;|&nbsp;
+    📱 iOS: TestFlight beta (public link coming soon)
+  </p>
 </div>
 
-<br/>
-
-
-<br/>
-
-<div align="center">
-  <a href="https://youtu.be/PbS7iEWzLyw?si=vtYj21MkKTWro6t1">📺 Demo Video (YouTube)</a> 
-  &nbsp; | &nbsp;
-  <a href="#">📱 iOS App Store (Coming Soon)</a>
-</div>
+> **Status, November 2026:** the iOS app is in TestFlight as **SmartSight: Study Coach**, with a public beta in Apple review. The backend runs on Render and Supabase.
 
 ---
 
 ## Achievements
 
-- **MIT Reality Hack 2026 - Grand Prize (Gold Award) Winner**
-- **MIT Reality Hack 2026 - Meta Track Winner**
-- **Scheduled to attend AWE USA 2026** (World's #1 XR + AI Event)
+- **MIT Reality Hack 2026: Grand Prize (Gold Award)**
+- **MIT Reality Hack 2026: Meta Track winner**
+- **Selected for AWE USA 2026**, the world's largest XR + AI event
 
 <div align="center">
   <img src="./assets/team_photo2.jpg" style="border-radius:10px; width:100%;"/>
@@ -33,109 +30,75 @@
 
 ---
 
-## Project Overview
-- **Goal:** To eliminate the hassle of manual study logging and develop an AI coach that automatically analyzes and provide personalized guided study coaching using the 1st-person perspective (POV) of Meta Ray-Ban glasses and a companion app.
-- **Core Value:** Visualizing the learning journey without ever interrupting learning itself, transforming fragmented study habits into a unified, actionable "study story" that delivers personalized post-session coaching that tells students not just what they covered, but also what to do next. 
-.
+## The problem
 
----
+Studying for a big exam like the MCAT means months of self-study, and most students can't tell what they've actually covered.
 
-## Inspiration & Problem Statement
+- **Logging breaks focus.** Timers, subject pickers and study journals interrupt the work they're meant to measure.
+- **Hours aren't knowledge.** "4 hours today" says nothing about which topics you covered or which ones are slipping.
+- **No feedback loop.** Practice questions and flashcards are made by hand, if at all, and rarely match what you just read.
 
-### **Limitations of Traditional Study Tracking**
-* **Manual Logging Hassle:** Requirements for manual logging (starting timers, selecting subjects) break the flow and cause distractions.
-* **Lacks Contextual Data:** Simply measuring 'study time' lacks the contextual feedback needed to understand what was actually covered.
-* **Low Output vs. Input:** A lack of feedback loops means the energy spent on logging doesn't effectively lead to improved learning efficiency.
+## What SmartSight does
 
-### **SmartSight’s Solution**
-* **Hands-free Tracking:** Meta Ray-Ban cameras and microphones quietly observe and automatically log study sessions as they happen.
-* **Contextual Insight:** AI analyzes 1st-person POV images to identify study content, engagement levels, and distractions (like phone usage).
-* **Customized AI Pipeline:** Primary data is further processed via our customized AI Pipeline for providing coaching items such as flashcards and quizzes. 
----
+SmartSight sits beside you while you study and turns the pages you read into a study log, a plan and practice material, without you typing anything.
 
-## Key Features
+| | |
+|---|---|
+| **Hands-free study log** | Point your phone camera or wear Ray-Ban Meta glasses. Every few seconds the phone reads the page and SmartSight works out the MCAT subject and topic, so time per topic is logged automatically. |
+| **Private by design** | Text recognition runs on the phone. Only the words on the page go to the server, and **photos never leave your device**. |
+| **A daily plan** | Each day the coach picks 1–3 tasks: catch up on a stalled subject, redo a weak quiz, clear due flashcards. It's based on your curriculum coverage, your pace toward exam day and your own results. |
+| **Quizzes and flashcards from your own pages** | Generated from what you actually read in each session, not a generic question bank. |
+| **Luna, a voice coach** | Say "Hey Luna" to ask about the page in front of you without looking up. She knows what you're reading, explains concepts, quizzes you out loud and can bookmark a page for you. |
+| **Luna chat with live cards** | Ask "Am I on track?" and get your MCAT coverage per subject, weekly stats, a quiz to answer in place or flashcards to flip. |
+| **Progress you can see** | Levels, XP, streaks and achievements, plus a Vault of every topic you've studied with mastery and cards due. |
 
-### **1. Hands-Free Automatic Logging**
-* Automatically tracks study sessions, subjects, and time spent without needing to touch a phone.
-* AI automatically tags subjects (Biology, Math, etc.) and subtopics from the 1st-person POV images.
-
-### **2. AI-Powered Contextual Analysis**
-* **Learning State Analysis:** Determines if the student is actively solving problems or passively reading.
-* **Study Telemetry:** Provides consistent, machine-readable metrics on learning quality using structured JSON data.
-* **Distraction Monitoring:** Detects distractions, such as central phone visibility, within the user's field of view.
-
-### **3. AI Coach**
-* **In-session Voice Support:** If you're "Stuck? Just ask" — receive instant voice-based guidance without breaking focus. Our principle is designed to avoid giving direct answers, instead asking reflective questions to encourage reasoning.
-* **Post-session Flashcards & Quizzes:** Glasses capture and AI backend generate flashcards and quizzes automatically without mannual work for distaction-free study coaching. 
-
-### **4. Learning Dashboard**
-* Visualizes metrics such as time per topic, active/passive ratios, and help counts via an iOS application.
-
----
-
-## Tech Stack
-
-| Category | Tech Stack |
-| :--- | :--- |
-| **Frontend** | **Swift / SwiftUI** (iOS App), **Xcode** |
-| **AI Models** | **GPT-4o (Vision)**, **GPT Realtime API** |
-| **Backend** | **Node.js**, **PrismaDB**, **WebSockets** |
-| **Infrastructure** | **AWS S3**, HTTP API |
-| **Hardware** | **Meta Ray-Ban Smart Glasses** |
-
----
-
-## Team Members
-
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Hyunseok Hwang</b><br/>
-      <a href="https://www.linkedin.com/in/hyunseok-hwang/">
-        <img src="./assets/hyunseok.jpg" width="100" style="border-radius:50%"/>
-      </a><br/>
-      Product Engineer
-    </td>
-    <td align="center">
-      <b>Sylvan (Xiaofan) Shen</b><br/>
-      <a href="https://www.linkedin.com/in/xiaofan-sylvan-shen/">
-        <img src="./assets/sylvan.jpg" width="100" style="border-radius:50%"/>
-      </a><br/>
-      Product Manager & Glasses UX Designer
-    </td>
-    <td align="center">
-      <b>Vivian Xin Shu</b><br/>
-      <a href="https://www.linkedin.com/in/vivian-xin-shu/">
-        <img src="./assets/vivian.jpg" width="100" style="border-radius:50%"/>
-      </a><br/>
-      Product Manager & Designer
-    </td>
-    <td align="center">
-      <b>Jayden DeCambre</b><br/>
-      <a href="https://www.linkedin.com/in/jaydendecambre/">
-        <img src="./assets/jayden.jpg" width="100" style="border-radius:50%"/>
-      </a><br/>
-      iOS Engineer
-    </td>
-    <td align="center">
-      <b>Dongchan Kim</b><br/>
-      <a href="https://www.linkedin.com/in/dongckim99/">
-        <img src="./assets/dongchan.jpg" width="100" style="border-radius:50%"/>
-      </a><br/>
-      Backend Engineer
-    </td>
-  </tr>
-</table>
-
----
-
-## 📂 Project Deliverables
-
-- [Presentation Pitch Deck (PDF)](https://www.canva.com/design/DAG_XQDLTDo/Ve8QZl2jKriKnRknXeBuMg/view?utm_content=DAG_XQDLTDo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b6bd5e0de)
-- [Demo Video Link](https://youtu.be/PbS7iEWzLyw?si=vtYj21MkKTWro6t1)
-
----
 <div align="center">
-  <p><i>see you AWE2026</i></p>
+  <img src="./assets/app/home.png" width="190" alt="Home: today's plan"/>
+  <img src="./assets/app/session.png" width="190" alt="Focus session"/>
+  <img src="./assets/app/luna-coverage.png" width="190" alt="Luna: MCAT coverage per subject"/>
+  <img src="./assets/app/profile.png" width="190" alt="Profile: level, streak and achievements"/>
 </div>
+
+## How it evolved
+
+SmartSight started at MIT Reality Hack in January 2026 as a glasses app that judged every photo for focus and distraction. In May 2026 it became a **study-content logger**. The phone now reads the page itself and sends only text, so it's more private, cheaper and faster, and quizzes, flashcards and the coach only ever needed the text. Since then:
+
+- Luna moved to a direct Gemini Live voice connection.
+- The app got a monochrome redesign.
+- The backend moved from AWS to Render and Supabase.
+- Home, Vault and Profile switched to real data, with a coverage-aware daily coach.
+
+Meta doesn't allow apps built on its glasses SDK on the App Store yet. Until it does, public builds use the iPhone camera and the glasses work in internal builds.
+
+---
+
+## Tech stack
+
+| Area | Technology |
+|---|---|
+| **iOS app** | Swift 6, SwiftUI, Apple Vision (on-device OCR), Speech ("Hey Luna" wake word), Meta Wearables Device Access Toolkit |
+| **Voice** | Gemini Live, a direct device-to-Google WebSocket with server-minted, single-use tokens |
+| **AI** | Gemini 3.5 Flash (topic classification), Gemini 3 Flash → 3.1 Pro escalation ladder (quizzes, flashcards), GPT-4.1 (coach chat) |
+| **Backend** | Node.js 20, Express, Prisma, PostgreSQL |
+| **Infrastructure** | Render, Supabase (Postgres + Storage) |
+| **Hardware** | iPhone; Ray-Ban Meta smart glasses |
+
+---
+
+## Team
+
+| Name | Role |
+|---|---|
+| [Hyunseok Hwang](https://www.linkedin.com/in/hyunseok-hwang/) | Product Engineer |
+| [Sylvan (Xiaofan) Shen](https://www.linkedin.com/in/xiaofan-sylvan-shen/) | Product Manager & Glasses UX Designer |
+| [Vivian Xin Shu](https://www.linkedin.com/in/vivian-xin-shu/) | Product Manager & Designer |
+| [Jayden DeCambre](https://www.linkedin.com/in/jaydendecambre/) | iOS Engineer |
+| [Dongchan Kim](https://www.linkedin.com/in/dongckim99/) | Backend Engineer |
+
+---
+
+## Links
+
+- [Website: getsmartsight.com](https://getsmartsight.com) ([source](https://github.com/SmartSightStartup/smartsight-website))
+- [Pitch deck](https://www.canva.com/design/DAG_XQDLTDo/Ve8QZl2jKriKnRknXeBuMg/view?utm_content=DAG_XQDLTDo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b6bd5e0de)
+- [Demo video](https://youtu.be/PbS7iEWzLyw?si=vtYj21MkKTWro6t1)
